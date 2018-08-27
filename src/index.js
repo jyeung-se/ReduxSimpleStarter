@@ -19,7 +19,7 @@ class App extends Component {
       selectedVideo: null
     };
 
-    this.videoSearch("Fake Love");
+    this.videoSearch("fake love lyrics");
   }
 
   videoSearch(term) {
